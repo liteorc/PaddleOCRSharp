@@ -11,3 +11,16 @@ C:\Users\Zhenq\Downloads\PaddleOCRSharp-main\PaddleOCRDemo\ConsoleApp\obj\Debug\
 C:\Users\Zhenq\Downloads\PaddleOCRSharp-main\PaddleOCRDemo\ConsoleApp\obj\Debug\ConsoleApp.csproj.Up2Date
 C:\Users\Zhenq\Downloads\PaddleOCRSharp-main\PaddleOCRDemo\ConsoleApp\obj\Debug\ConsoleApp.exe
 C:\Users\Zhenq\Downloads\PaddleOCRSharp-main\PaddleOCRDemo\ConsoleApp\obj\Debug\ConsoleApp.pdb
+D:\TEMP\PaddleOCRSharp\PaddleOCRDemo\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\TEMP\PaddleOCRSharp\PaddleOCRDemo\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\TEMP\PaddleOCRSharp\PaddleOCRDemo\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\TEMP\PaddleOCRSharp\PaddleOCRDemo\ConsoleApp\bin\Debug\PaddleOCRSharp.dll
+D:\TEMP\PaddleOCRSharp\PaddleOCRDemo\ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+D:\TEMP\PaddleOCRSharp\PaddleOCRDemo\ConsoleApp\bin\Debug\PaddleOCRSharp.pdb
+D:\TEMP\PaddleOCRSharp\PaddleOCRDemo\ConsoleApp\bin\Debug\PaddleOCRSharp.xml
+D:\TEMP\PaddleOCRSharp\PaddleOCRDemo\ConsoleApp\bin\Debug\PaddleOCRSharp.dll.config
+D:\TEMP\PaddleOCRSharp\PaddleOCRDemo\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+D:\TEMP\PaddleOCRSharp\PaddleOCRDemo\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\TEMP\PaddleOCRSharp\PaddleOCRDemo\ConsoleApp\obj\Debug\ConsoleApp.csproj.Up2Date
+D:\TEMP\PaddleOCRSharp\PaddleOCRDemo\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\TEMP\PaddleOCRSharp\PaddleOCRDemo\ConsoleApp\obj\Debug\ConsoleApp.pdb
