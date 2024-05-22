@@ -1,0 +1,13 @@
+C:\Users\Zhenq\Downloads\PaddleOCRSharp-main\PaddleOCRDemo\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Zhenq\Downloads\PaddleOCRSharp-main\PaddleOCRDemo\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Zhenq\Downloads\PaddleOCRSharp-main\PaddleOCRDemo\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Zhenq\Downloads\PaddleOCRSharp-main\PaddleOCRDemo\ConsoleApp\bin\Debug\PaddleOCRSharp.dll
+C:\Users\Zhenq\Downloads\PaddleOCRSharp-main\PaddleOCRDemo\ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zhenq\Downloads\PaddleOCRSharp-main\PaddleOCRDemo\ConsoleApp\bin\Debug\PaddleOCRSharp.pdb
+C:\Users\Zhenq\Downloads\PaddleOCRSharp-main\PaddleOCRDemo\ConsoleApp\bin\Debug\PaddleOCRSharp.xml
+C:\Users\Zhenq\Downloads\PaddleOCRSharp-main\PaddleOCRDemo\ConsoleApp\bin\Debug\PaddleOCRSharp.dll.config
+C:\Users\Zhenq\Downloads\PaddleOCRSharp-main\PaddleOCRDemo\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Zhenq\Downloads\PaddleOCRSharp-main\PaddleOCRDemo\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Zhenq\Downloads\PaddleOCRSharp-main\PaddleOCRDemo\ConsoleApp\obj\Debug\ConsoleApp.csproj.Up2Date
+C:\Users\Zhenq\Downloads\PaddleOCRSharp-main\PaddleOCRDemo\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Zhenq\Downloads\PaddleOCRSharp-main\PaddleOCRDemo\ConsoleApp\obj\Debug\ConsoleApp.pdb
